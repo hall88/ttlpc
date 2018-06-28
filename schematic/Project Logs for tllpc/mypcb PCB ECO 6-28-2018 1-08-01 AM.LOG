@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=SW PC Pin=Q3-13
+Removed Pin From Net: NetName=SW PC Pin=Q4-2
+Removed Pin From Net: NetName=NetQ1_8 Pin=Q6-2
+Removed Pin From Net: NetName=NetQ2_8 Pin=Q7-2
+Removed Pin From Net: NetName=NetQ3_8 Pin=Q8-2
+Added Component: Designator=Q11(DIP32)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q12(DIP16)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q13(DIP16)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q14(DIP16)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q15(DIP16)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q16(DIP20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q17(DIP20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q18(DIP20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q19(DIP20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q20(DIP20)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PC SET Pin=Q1-5
+Added Pin To Net: NetName=PC SET Pin=Q2-5
+Added Pin To Net: NetName=PC SET Pin=Q3-5
+Added Pin To Net: NetName=NetQ1_8 Pin=Q5-2
+Added Pin To Net: NetName=NetQ2_8 Pin=Q6-2
+Added Pin To Net: NetName=NetQ3_8 Pin=Q7-2
+Added Pin To Net: NetName=CLK Pin=Q8-2
+Added Pin To Net: NetName=NetQ3_13 Pin=Q3-13
+Added Pin To Net: NetName=NetQ3_13 Pin=Q4-2
+Added Net: Name=NetQ3_13
+Added Pin To Net: NetName=PC RST SW Pin=Q4-13
+Added Net: Name=PC RST SW
+Added Member To Class: ClassName=main Member=Component Q7 74LS161
+Added Member To Class: ClassName=main Member=Component Q11 UM61512A
+Added Member To Class: ClassName=main Member=Component Q12 74LS173
+Added Member To Class: ClassName=main Member=Component Q13 74LS173
+Added Member To Class: ClassName=main Member=Component Q14 74LS173
+Added Member To Class: ClassName=main Member=Component Q15 74LS173
+Added Member To Class: ClassName=main Member=Component Q16 74LS373
+Added Member To Class: ClassName=main Member=Component Q17 74LS373
+Added Member To Class: ClassName=main Member=Component Q18 74LS245
+Added Member To Class: ClassName=main Member=Component Q19 74LS373
+Added Member To Class: ClassName=main Member=Component Q20 74LS373
+Added Room: Name=main
