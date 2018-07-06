@@ -1,0 +1,148 @@
+Removed Pin From Net: NetName=BUS 0 Pin=Q18-2
+Removed Pin From Net: NetName=BUS 1 Pin=Q18-3
+Removed Pin From Net: NetName=BUS 2 Pin=Q18-4
+Removed Pin From Net: NetName=BUS 3 Pin=Q18-5
+Removed Pin From Net: NetName=BUS 4 Pin=Q18-6
+Removed Pin From Net: NetName=BUS 5 Pin=Q18-7
+Removed Pin From Net: NetName=BUS 6 Pin=Q18-8
+Removed Pin From Net: NetName=BUS 7 Pin=Q18-9
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q9
+Change Component Designator: OldDesignator=Q6 NewDesignator=Q10
+Change Component Designator: OldDesignator=Q7 NewDesignator=Q11
+Change Component Designator: OldDesignator=Q8 NewDesignator=Q12
+Change Component Designator: OldDesignator=Q9 NewDesignator=Q15
+Change Component Designator: OldDesignator=Q10 NewDesignator=Q16
+Change Component Designator: OldDesignator=Q11 NewDesignator=Q17
+Change Component Designator: OldDesignator=Q12 NewDesignator=Q18
+Change Component Designator: OldDesignator=Q13 NewDesignator=Q19
+Change Component Designator: OldDesignator=Q14 NewDesignator=Q20
+Change Component Designator: OldDesignator=Q15 NewDesignator=Q21
+Change Component Designator: OldDesignator=Q16 NewDesignator=Q22
+Change Component Designator: OldDesignator=Q17 NewDesignator=Q23
+Change Component Designator: OldDesignator=Q18 NewDesignator=Q24
+Change Component Designator: OldDesignator=Q19 NewDesignator=Q25
+Change Component Designator: OldDesignator=Q20 NewDesignator=Q26
+Added Component: Designator=Q5(DIP16)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q6(DIP14)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q7(DIP14)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q8(DIP14)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q13(DIP14)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q14(DIP14)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=BUS 13 Pin=Q5-1
+Added Pin To Net: NetName=BUS 14 Pin=Q5-2
+Added Pin To Net: NetName=BUS 15 Pin=Q5-3
+Added Pin To Net: NetName=BUS 15 Pin=Q5-6
+Added Pin To Net: NetName=BUS 14 Pin=Q5-7
+Added Pin To Net: NetName=GND Pin=Q5-8
+Added Pin To Net: NetName=BUS 13 Pin=Q5-9
+Added Pin To Net: NetName=BUS 12 Pin=Q5-10
+Added Pin To Net: NetName=BUS 12 Pin=Q5-15
+Added Pin To Net: NetName=VCC Pin=Q5-16
+Added Pin To Net: NetName=GND Pin=Q6-7
+Added Pin To Net: NetName=VCC Pin=Q6-14
+Added Pin To Net: NetName=GND Pin=Q7-7
+Added Pin To Net: NetName=VCC Pin=Q7-14
+Added Pin To Net: NetName=GND Pin=Q8-7
+Added Pin To Net: NetName=VCC Pin=Q8-14
+Added Pin To Net: NetName=GND Pin=Q13-7
+Added Pin To Net: NetName=VCC Pin=Q13-14
+Added Pin To Net: NetName=GND Pin=Q14-7
+Added Pin To Net: NetName=VCC Pin=Q14-14
+Added Pin To Net: NetName=GND Pin=Q17-2
+Added Pin To Net: NetName=GND Pin=Q18-2
+Added Pin To Net: NetName=GND Pin=Q19-2
+Added Pin To Net: NetName=GND Pin=Q20-2
+Added Pin To Net: NetName=BUS 8 Pin=Q24-2
+Added Pin To Net: NetName=BUS 9 Pin=Q24-3
+Added Pin To Net: NetName=BUS 10 Pin=Q24-4
+Added Pin To Net: NetName=BUS 11 Pin=Q24-5
+Added Pin To Net: NetName=BUS 12 Pin=Q24-6
+Added Pin To Net: NetName=BUS 13 Pin=Q24-7
+Added Pin To Net: NetName=BUS 14 Pin=Q24-8
+Added Pin To Net: NetName=BUS 15 Pin=Q24-9
+Added Pin To Net: NetName=BUS 7 Pin=Q24-11
+Added Pin To Net: NetName=BUS 6 Pin=Q24-12
+Added Pin To Net: NetName=BUS 5 Pin=Q24-13
+Added Pin To Net: NetName=BUS 4 Pin=Q24-14
+Added Pin To Net: NetName=BUS 3 Pin=Q24-15
+Added Pin To Net: NetName=BUS 2 Pin=Q24-16
+Added Pin To Net: NetName=BUS 1 Pin=Q24-17
+Added Pin To Net: NetName=BUS 0 Pin=Q24-18
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Pin To Net: NetName=MEM R Pin=Q21-24
+Added Net: Name=MEM R
+Added Pin To Net: NetName=MEM W Pin=Q21-29
+Added Net: Name=MEM W
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-3
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-4
+Added Pin To Net: NetName=NetQ6_3 Pin=Q6-5
+Added Net: Name=NetQ6_3
+Added Pin To Net: NetName=NetQ6_6 Pin=Q6-6
+Added Pin To Net: NetName=NetQ6_6 Pin=Q6-12
+Added Net: Name=NetQ6_6
+Added Pin To Net: NetName=NetQ7_3 Pin=Q7-3
+Added Pin To Net: NetName=NetQ7_3 Pin=Q7-4
+Added Pin To Net: NetName=NetQ7_3 Pin=Q7-5
+Added Net: Name=NetQ7_3
+Added Pin To Net: NetName=NetQ7_6 Pin=Q7-6
+Added Pin To Net: NetName=NetQ7_6 Pin=Q7-12
+Added Net: Name=NetQ7_6
+Added Pin To Net: NetName=NetQ13_3 Pin=Q13-3
+Added Pin To Net: NetName=NetQ13_3 Pin=Q13-4
+Added Pin To Net: NetName=NetQ13_3 Pin=Q13-5
+Added Net: Name=NetQ13_3
+Added Pin To Net: NetName=NetQ13_6 Pin=Q13-6
+Added Pin To Net: NetName=NetQ13_6 Pin=Q13-12
+Added Net: Name=NetQ13_6
+Added Pin To Net: NetName=NetQ14_3 Pin=Q14-3
+Added Pin To Net: NetName=NetQ14_3 Pin=Q14-4
+Added Pin To Net: NetName=NetQ14_3 Pin=Q14-5
+Added Net: Name=NetQ14_3
+Added Pin To Net: NetName=NetQ14_6 Pin=Q14-6
+Added Pin To Net: NetName=NetQ14_6 Pin=Q14-12
+Added Net: Name=NetQ14_6
+Added Pin To Net: NetName=RF BOT READ Pin=Q13-11
+Added Net: Name=RF BOT READ
+Added Pin To Net: NetName=RF BOT WR Pin=Q14-11
+Added Net: Name=RF BOT WR
+Added Pin To Net: NetName=RF R2P Pin=Q6-13
+Added Pin To Net: NetName=RF R2P Pin=Q7-13
+Added Pin To Net: NetName=RF R2P Pin=Q8-6
+Added Pin To Net: NetName=RF R2P Pin=Q14-13
+Added Net: Name=RF R2P
+Added Pin To Net: NetName=RF R2 Pin=Q8-5
+Added Pin To Net: NetName=RF R2 Pin=Q13-1
+Added Pin To Net: NetName=RF R2 Pin=Q14-1
+Added Net: Name=RF R2
+Added Pin To Net: NetName=RF RP Pin=Q7-2
+Added Pin To Net: NetName=RF RP Pin=Q8-2
+Added Net: Name=RF RP
+Added Pin To Net: NetName=RF R Pin=Q6-1
+Added Pin To Net: NetName=RF R Pin=Q8-1
+Added Pin To Net: NetName=RF R Pin=Q13-2
+Added Net: Name=RF R
+Added Pin To Net: NetName=RF TOP READ Pin=Q6-11
+Added Net: Name=RF TOP READ
+Added Pin To Net: NetName=RF TOP WR Pin=Q7-11
+Added Net: Name=RF TOP WR
+Added Pin To Net: NetName=RF WP Pin=Q6-2
+Added Pin To Net: NetName=RF WP Pin=Q8-4
+Added Pin To Net: NetName=RF WP Pin=Q13-13
+Added Net: Name=RF WP
+Added Pin To Net: NetName=RF W Pin=Q7-1
+Added Pin To Net: NetName=RF W Pin=Q8-3
+Added Pin To Net: NetName=RF W Pin=Q14-2
+Added Net: Name=RF W
+Added Member To Class: ClassName=main Member=Component Q21 UM61512A
+Added Member To Class: ClassName=main Member=Component Q22 74LS373
+Added Member To Class: ClassName=main Member=Component Q23 74LS373
+Added Member To Class: ClassName=main Member=Component Q24 74LS245
+Added Member To Class: ClassName=main Member=Component Q25 74LS373
+Added Member To Class: ClassName=main Member=Component Q26 74LS373
+Added Room: Name=main

@@ -1,0 +1,153 @@
+Removed Pin From Net: NetName=LED PC 15 Pin=D1-2
+Removed Pin From Net: NetName=LED PC 14 Pin=D2-2
+Removed Pin From Net: NetName=LED PC 13 Pin=D3-2
+Removed Pin From Net: NetName=LED PC 11 Pin=D5-2
+Removed Pin From Net: NetName=LED PC 10 Pin=D6-2
+Removed Pin From Net: NetName=LED PC 9 Pin=D7-2
+Removed Pin From Net: NetName=LED PC 8 Pin=D8-2
+Removed Pin From Net: NetName=LED PC 7 Pin=D9-2
+Removed Pin From Net: NetName=LED PC 6 Pin=D10-2
+Removed Pin From Net: NetName=LED PC 5 Pin=D11-2
+Removed Pin From Net: NetName=LED PC 3 Pin=D13-2
+Removed Pin From Net: NetName=LED PC 2 Pin=D14-2
+Removed Pin From Net: NetName=LED PC 1 Pin=D15-2
+Removed Pin From Net: NetName=LED PC 0 Pin=D16-2
+Removed Pin From Net: NetName=GND Pin=Q17-1
+Change Component Designator: OldDesignator=D1 NewDesignator=D10
+Change Component Designator: OldDesignator=D2 NewDesignator=D11
+Change Component Designator: OldDesignator=D3 NewDesignator=D12
+Change Component Designator: OldDesignator=D4 NewDesignator=D13
+Change Component Designator: OldDesignator=D5 NewDesignator=D14
+Change Component Designator: OldDesignator=D6 NewDesignator=D15
+Change Component Designator: OldDesignator=D7 NewDesignator=D16
+Change Component Designator: OldDesignator=D8 NewDesignator=D2
+Change Component Designator: OldDesignator=D9 NewDesignator=D1
+Change Component Designator: OldDesignator=D10 NewDesignator=D3
+Change Component Designator: OldDesignator=D11 NewDesignator=D4
+Change Component Designator: OldDesignator=D12 NewDesignator=D5
+Change Component Designator: OldDesignator=D13 NewDesignator=D6
+Change Component Designator: OldDesignator=D14 NewDesignator=D7
+Change Component Designator: OldDesignator=D15 NewDesignator=D8
+Change Component Designator: OldDesignator=D16 NewDesignator=D9
+Change Component Designator: OldDesignator=D17 NewDesignator=D21
+Change Component Designator: OldDesignator=D18 NewDesignator=D32
+Change Component Designator: OldDesignator=D19 NewDesignator=D18
+Change Component Designator: OldDesignator=D20 NewDesignator=D28
+Change Component Designator: OldDesignator=D21 NewDesignator=D27
+Change Component Designator: OldDesignator=D22 NewDesignator=D31
+Change Component Designator: OldDesignator=D23 NewDesignator=D17
+Change Component Designator: OldDesignator=D24 NewDesignator=D26
+Change Component Designator: OldDesignator=D25 NewDesignator=D24
+Change Component Designator: OldDesignator=D26 NewDesignator=D30
+Change Component Designator: OldDesignator=D27 NewDesignator=D19
+Change Component Designator: OldDesignator=D28 NewDesignator=D25
+Change Component Designator: OldDesignator=D29 NewDesignator=D22
+Change Component Designator: OldDesignator=D30 NewDesignator=D29
+Change Component Designator: OldDesignator=D31 NewDesignator=D20
+Change Component Designator: OldDesignator=D32 NewDesignator=D23
+Change Component Designator: OldDesignator=Q16 NewDesignator=Q19
+Change Component Designator: OldDesignator=Q19 NewDesignator=Q16
+Added Pin To Net: NetName=LED PC 0 Pin=D1-2
+Added Pin To Net: NetName=LED PC 1 Pin=D2-2
+Added Pin To Net: NetName=LED PC 2 Pin=D3-2
+Added Pin To Net: NetName=LED PC 3 Pin=D4-2
+Added Pin To Net: NetName=LED PC 5 Pin=D6-2
+Added Pin To Net: NetName=LED PC 6 Pin=D7-2
+Added Pin To Net: NetName=LED PC 7 Pin=D8-2
+Added Pin To Net: NetName=LED PC 8 Pin=D9-2
+Added Pin To Net: NetName=LED PC 9 Pin=D10-2
+Added Pin To Net: NetName=LED PC 10 Pin=D11-2
+Added Pin To Net: NetName=LED PC 11 Pin=D12-2
+Added Pin To Net: NetName=LED PC 13 Pin=D14-2
+Added Pin To Net: NetName=LED PC 14 Pin=D15-2
+Added Pin To Net: NetName=LED PC 15 Pin=D16-2
+Added Pin To Net: NetName=BUS 0 Pin=Q17-2
+Added Pin To Net: NetName=BUS 0 Pin=Q17-3
+Added Pin To Net: NetName=BUS 1 Pin=Q17-4
+Added Pin To Net: NetName=BUS 1 Pin=Q17-5
+Added Pin To Net: NetName=BUS 2 Pin=Q17-6
+Added Pin To Net: NetName=BUS 2 Pin=Q17-7
+Added Pin To Net: NetName=BUS 3 Pin=Q17-8
+Added Pin To Net: NetName=BUS 3 Pin=Q17-9
+Added Pin To Net: NetName=BUS 4 Pin=Q17-12
+Added Pin To Net: NetName=BUS 4 Pin=Q17-13
+Added Pin To Net: NetName=BUS 5 Pin=Q17-14
+Added Pin To Net: NetName=BUS 5 Pin=Q17-15
+Added Pin To Net: NetName=BUS 6 Pin=Q17-16
+Added Pin To Net: NetName=BUS 6 Pin=Q17-17
+Added Pin To Net: NetName=BUS 7 Pin=Q17-18
+Added Pin To Net: NetName=BUS 7 Pin=Q17-19
+Added Pin To Net: NetName=BUS 0 Pin=Q18-2
+Added Pin To Net: NetName=BUS 1 Pin=Q18-3
+Added Pin To Net: NetName=BUS 2 Pin=Q18-4
+Added Pin To Net: NetName=BUS 3 Pin=Q18-5
+Added Pin To Net: NetName=BUS 4 Pin=Q18-6
+Added Pin To Net: NetName=BUS 5 Pin=Q18-7
+Added Pin To Net: NetName=BUS 6 Pin=Q18-8
+Added Pin To Net: NetName=BUS 7 Pin=Q18-9
+Added Pin To Net: NetName=GND Pin=Q20-1
+Added Pin To Net: NetName=BUS 0 Pin=Q20-3
+Added Pin To Net: NetName=BUS 1 Pin=Q20-4
+Added Pin To Net: NetName=BUS 2 Pin=Q20-7
+Added Pin To Net: NetName=BUS 3 Pin=Q20-8
+Added Pin To Net: NetName=BUS 4 Pin=Q20-13
+Added Pin To Net: NetName=BUS 5 Pin=Q20-14
+Added Pin To Net: NetName=BUS 6 Pin=Q20-17
+Added Pin To Net: NetName=BUS 7 Pin=Q20-18
+Added Pin To Net: NetName=LED MDR 0 Pin=D17-1
+Added Pin To Net: NetName=LED MDR 0 Pin=Q20-2
+Added Net: Name=LED MDR 0
+Added Pin To Net: NetName=LED MDR 1 Pin=D18-1
+Added Pin To Net: NetName=LED MDR 1 Pin=Q20-5
+Added Net: Name=LED MDR 1
+Added Pin To Net: NetName=LED MDR 2 Pin=D19-1
+Added Pin To Net: NetName=LED MDR 2 Pin=Q20-6
+Added Net: Name=LED MDR 2
+Added Pin To Net: NetName=LED MDR 3 Pin=D20-1
+Added Pin To Net: NetName=LED MDR 3 Pin=Q20-9
+Added Net: Name=LED MDR 3
+Added Pin To Net: NetName=LED MDR 4 Pin=D21-1
+Added Pin To Net: NetName=LED MDR 4 Pin=Q20-12
+Added Net: Name=LED MDR 4
+Added Pin To Net: NetName=LED MDR 5 Pin=D22-1
+Added Pin To Net: NetName=LED MDR 5 Pin=Q20-15
+Added Net: Name=LED MDR 5
+Added Pin To Net: NetName=LED MDR 6 Pin=D23-1
+Added Pin To Net: NetName=LED MDR 6 Pin=Q20-16
+Added Net: Name=LED MDR 6
+Added Pin To Net: NetName=LED MDR 7 Pin=D24-1
+Added Pin To Net: NetName=LED MDR 7 Pin=Q20-19
+Added Net: Name=LED MDR 7
+Added Pin To Net: NetName=LED MDR 8 Pin=D25-1
+Added Pin To Net: NetName=LED MDR 8 Pin=Q19-2
+Added Net: Name=LED MDR 8
+Added Pin To Net: NetName=LED MDR 9 Pin=D26-1
+Added Pin To Net: NetName=LED MDR 9 Pin=Q19-5
+Added Net: Name=LED MDR 9
+Added Pin To Net: NetName=LED MDR 10 Pin=D27-1
+Added Pin To Net: NetName=LED MDR 10 Pin=Q19-6
+Added Net: Name=LED MDR 10
+Added Pin To Net: NetName=LED MDR 11 Pin=D28-1
+Added Pin To Net: NetName=LED MDR 11 Pin=Q19-9
+Added Net: Name=LED MDR 11
+Added Pin To Net: NetName=LED MDR 12 Pin=D29-1
+Added Pin To Net: NetName=LED MDR 12 Pin=Q19-12
+Added Net: Name=LED MDR 12
+Added Pin To Net: NetName=LED MDR 13 Pin=D30-1
+Added Pin To Net: NetName=LED MDR 13 Pin=Q19-15
+Added Net: Name=LED MDR 13
+Added Pin To Net: NetName=LED MDR 14 Pin=D31-1
+Added Pin To Net: NetName=LED MDR 14 Pin=Q19-16
+Added Net: Name=LED MDR 14
+Added Pin To Net: NetName=LED MDR 15 Pin=D32-1
+Added Pin To Net: NetName=LED MDR 15 Pin=Q19-19
+Added Net: Name=LED MDR 15
+Added Pin To Net: NetName=MDR R Pin=Q16-1
+Added Pin To Net: NetName=MDR R Pin=Q17-1
+Added Net: Name=MDR R
+Added Pin To Net: NetName=MDR W Pin=Q16-11
+Added Pin To Net: NetName=MDR W Pin=Q17-11
+Added Pin To Net: NetName=MDR W Pin=Q19-11
+Added Pin To Net: NetName=MDR W Pin=Q20-11
+Added Net: Name=MDR W
+Added Room: Name=main
