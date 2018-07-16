@@ -1,0 +1,162 @@
+Removed Pin From Net: NetName=ALU B0 Pin=D17-1
+Removed Pin From Net: NetName=ALU B1 Pin=D18-1
+Removed Pin From Net: NetName=ALU B2 Pin=D19-1
+Removed Pin From Net: NetName=ALU B3 Pin=D20-1
+Removed Pin From Net: NetName=ALU B4 Pin=D21-1
+Removed Pin From Net: NetName=ALU B5 Pin=D22-1
+Removed Pin From Net: NetName=ALU B6 Pin=D23-1
+Removed Pin From Net: NetName=ALU B7 Pin=D24-1
+Removed Pin From Net: NetName=ALU B8 Pin=D25-1
+Removed Pin From Net: NetName=ALU B9 Pin=D26-1
+Removed Pin From Net: NetName=ALU B10 Pin=D27-1
+Removed Pin From Net: NetName=ALU B11 Pin=D28-1
+Removed Pin From Net: NetName=ALU B12 Pin=D29-1
+Removed Pin From Net: NetName=ALU B13 Pin=D30-1
+Removed Pin From Net: NetName=ALU B14 Pin=D31-1
+Removed Pin From Net: NetName=ALU B15 Pin=D32-1
+Removed Pin From Net: NetName=GND Pin=Q25-10
+Removed Pin From Net: NetName=ALU B10 Pin=Q34-22
+Removed Pin From Net: NetName=GND Pin=Q38-1
+Removed Pin From Net: NetName=GND Pin=Q39-1
+Removed Pin From Net: NetName=ALU OUT WR Pin=Q40-1
+Removed Pin From Net: NetName=BUS 8 Pin=Q40-2
+Removed Pin From Net: NetName=BUS 9 Pin=Q40-5
+Removed Pin From Net: NetName=BUS 10 Pin=Q40-6
+Removed Pin From Net: NetName=BUS 11 Pin=Q40-9
+Removed Pin From Net: NetName=BUS 12 Pin=Q40-12
+Removed Pin From Net: NetName=BUS 13 Pin=Q40-15
+Removed Pin From Net: NetName=BUS 14 Pin=Q40-16
+Removed Pin From Net: NetName=BUS 15 Pin=Q40-19
+Removed Pin From Net: NetName=ALU OUT WR Pin=Q41-1
+Removed Pin From Net: NetName=BUS 0 Pin=Q41-2
+Removed Pin From Net: NetName=BUS 1 Pin=Q41-5
+Removed Pin From Net: NetName=BUS 2 Pin=Q41-6
+Removed Pin From Net: NetName=BUS 3 Pin=Q41-9
+Removed Pin From Net: NetName=BUS 4 Pin=Q41-12
+Removed Pin From Net: NetName=BUS 5 Pin=Q41-15
+Removed Pin From Net: NetName=BUS 6 Pin=Q41-16
+Removed Pin From Net: NetName=BUS 7 Pin=Q41-19
+Added Pin To Net: NetName=BUS 0 Pin=Q25-10
+Added Pin To Net: NetName=ALU B1 Pin=Q34-22
+Added Pin To Net: NetName=BUS 8 Pin=Q38-2
+Added Pin To Net: NetName=BUS 9 Pin=Q38-5
+Added Pin To Net: NetName=BUS 10 Pin=Q38-6
+Added Pin To Net: NetName=BUS 11 Pin=Q38-9
+Added Pin To Net: NetName=BUS 12 Pin=Q38-12
+Added Pin To Net: NetName=BUS 13 Pin=Q38-15
+Added Pin To Net: NetName=BUS 14 Pin=Q38-16
+Added Pin To Net: NetName=BUS 15 Pin=Q38-19
+Added Pin To Net: NetName=BUS 0 Pin=Q39-2
+Added Pin To Net: NetName=BUS 1 Pin=Q39-5
+Added Pin To Net: NetName=BUS 2 Pin=Q39-6
+Added Pin To Net: NetName=BUS 3 Pin=Q39-9
+Added Pin To Net: NetName=BUS 4 Pin=Q39-12
+Added Pin To Net: NetName=BUS 5 Pin=Q39-15
+Added Pin To Net: NetName=BUS 6 Pin=Q39-16
+Added Pin To Net: NetName=BUS 7 Pin=Q39-19
+Added Pin To Net: NetName=GND Pin=Q40-1
+Added Pin To Net: NetName=ALU OUT 8 Pin=Q40-3
+Added Pin To Net: NetName=ALU OUT 9 Pin=Q40-4
+Added Pin To Net: NetName=ALU OUT 10 Pin=Q40-7
+Added Pin To Net: NetName=ALU OUT 11 Pin=Q40-8
+Added Pin To Net: NetName=ALU OUT WR Pin=Q40-11
+Added Pin To Net: NetName=ALU OUT 12 Pin=Q40-13
+Added Pin To Net: NetName=ALU OUT 13 Pin=Q40-14
+Added Pin To Net: NetName=ALU OUT 14 Pin=Q40-17
+Added Pin To Net: NetName=ALU OUT 15 Pin=Q40-18
+Added Pin To Net: NetName=GND Pin=Q41-1
+Added Pin To Net: NetName=ALU OUT 0 Pin=Q41-3
+Added Pin To Net: NetName=ALU OUT 1 Pin=Q41-4
+Added Pin To Net: NetName=ALU OUT 2 Pin=Q41-7
+Added Pin To Net: NetName=ALU OUT 3 Pin=Q41-8
+Added Pin To Net: NetName=ALU OUT WR Pin=Q41-11
+Added Pin To Net: NetName=ALU OUT 4 Pin=Q41-13
+Added Pin To Net: NetName=ALU OUT 5 Pin=Q41-14
+Added Pin To Net: NetName=ALU OUT 6 Pin=Q41-17
+Added Pin To Net: NetName=ALU OUT 7 Pin=Q41-18
+Added Pin To Net: NetName=ALU OUT R Pin=Q38-1
+Added Pin To Net: NetName=ALU OUT R Pin=Q39-1
+Added Net: Name=ALU OUT R
+Added Pin To Net: NetName=LED ALU 0 Pin=D49-1
+Added Pin To Net: NetName=LED ALU 0 Pin=Q41-2
+Added Net: Name=LED ALU 0
+Added Pin To Net: NetName=LED ALU 1 Pin=D50-1
+Added Pin To Net: NetName=LED ALU 1 Pin=Q41-5
+Added Net: Name=LED ALU 1
+Added Pin To Net: NetName=LED ALU 2 Pin=D51-1
+Added Pin To Net: NetName=LED ALU 2 Pin=Q41-6
+Added Net: Name=LED ALU 2
+Added Pin To Net: NetName=LED ALU 3 Pin=D52-1
+Added Pin To Net: NetName=LED ALU 3 Pin=Q41-9
+Added Net: Name=LED ALU 3
+Added Pin To Net: NetName=LED ALU 4 Pin=D53-1
+Added Pin To Net: NetName=LED ALU 4 Pin=Q41-12
+Added Net: Name=LED ALU 4
+Added Pin To Net: NetName=LED ALU 5 Pin=D54-1
+Added Pin To Net: NetName=LED ALU 5 Pin=Q41-15
+Added Net: Name=LED ALU 5
+Added Pin To Net: NetName=LED ALU 6 Pin=D55-1
+Added Pin To Net: NetName=LED ALU 6 Pin=Q41-16
+Added Net: Name=LED ALU 6
+Added Pin To Net: NetName=LED ALU 7 Pin=D56-1
+Added Pin To Net: NetName=LED ALU 7 Pin=Q41-19
+Added Net: Name=LED ALU 7
+Added Pin To Net: NetName=LED ALU 8 Pin=D57-1
+Added Pin To Net: NetName=LED ALU 8 Pin=Q40-2
+Added Net: Name=LED ALU 8
+Added Pin To Net: NetName=LED ALU 9 Pin=D58-1
+Added Pin To Net: NetName=LED ALU 9 Pin=Q40-5
+Added Net: Name=LED ALU 9
+Added Pin To Net: NetName=LED ALU 10 Pin=D59-1
+Added Pin To Net: NetName=LED ALU 10 Pin=Q40-6
+Added Net: Name=LED ALU 10
+Added Pin To Net: NetName=LED ALU 11 Pin=D60-1
+Added Pin To Net: NetName=LED ALU 11 Pin=Q40-9
+Added Net: Name=LED ALU 11
+Added Pin To Net: NetName=LED ALU 12 Pin=D61-1
+Added Pin To Net: NetName=LED ALU 12 Pin=Q40-12
+Added Net: Name=LED ALU 12
+Added Pin To Net: NetName=LED ALU 13 Pin=D62-1
+Added Pin To Net: NetName=LED ALU 13 Pin=Q40-15
+Added Net: Name=LED ALU 13
+Added Pin To Net: NetName=LED ALU 14 Pin=D63-1
+Added Pin To Net: NetName=LED ALU 14 Pin=Q40-16
+Added Net: Name=LED ALU 14
+Added Pin To Net: NetName=LED ALU 15 Pin=D64-1
+Added Pin To Net: NetName=LED ALU 15 Pin=Q40-19
+Added Net: Name=LED ALU 15
+Added Pin To Net: NetName=LED ALU B0 Pin=D17-1
+Added Net: Name=LED ALU B0
+Added Pin To Net: NetName=LED ALU B1 Pin=D18-1
+Added Net: Name=LED ALU B1
+Added Pin To Net: NetName=LED ALU B2 Pin=D19-1
+Added Net: Name=LED ALU B2
+Added Pin To Net: NetName=LED ALU B3 Pin=D20-1
+Added Net: Name=LED ALU B3
+Added Pin To Net: NetName=LED ALU B4 Pin=D21-1
+Added Net: Name=LED ALU B4
+Added Pin To Net: NetName=LED ALU B5 Pin=D22-1
+Added Net: Name=LED ALU B5
+Added Pin To Net: NetName=LED ALU B6 Pin=D23-1
+Added Net: Name=LED ALU B6
+Added Pin To Net: NetName=LED ALU B7 Pin=D24-1
+Added Net: Name=LED ALU B7
+Added Pin To Net: NetName=LED ALU B8 Pin=D25-1
+Added Net: Name=LED ALU B8
+Added Pin To Net: NetName=LED ALU B9 Pin=D26-1
+Added Net: Name=LED ALU B9
+Added Pin To Net: NetName=LED ALU B10 Pin=D27-1
+Added Net: Name=LED ALU B10
+Added Pin To Net: NetName=LED ALU B11 Pin=D28-1
+Added Net: Name=LED ALU B11
+Added Pin To Net: NetName=LED ALU B12 Pin=D29-1
+Added Net: Name=LED ALU B12
+Added Pin To Net: NetName=LED ALU B13 Pin=D30-1
+Added Net: Name=LED ALU B13
+Added Pin To Net: NetName=LED ALU B14 Pin=D31-1
+Added Net: Name=LED ALU B14
+Added Pin To Net: NetName=LED ALU B15 Pin=D32-1
+Added Net: Name=LED ALU B15
+Added Member To Class: ClassName=main Member=Component Q40 74LS373
+Added Member To Class: ClassName=main Member=Component Q41 74LS373
+Added Room: Name=main
