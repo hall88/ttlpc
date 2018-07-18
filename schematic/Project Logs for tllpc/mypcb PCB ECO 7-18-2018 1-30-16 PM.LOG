@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=Q30 NewDesignator=Q34
+Change Component Designator: OldDesignator=Q31 NewDesignator=Q30
+Change Component Designator: OldDesignator=Q32 NewDesignator=Q31
+Change Component Designator: OldDesignator=Q33 NewDesignator=Q32
+Change Component Designator: OldDesignator=Q34 NewDesignator=Q33
+Change Component Designator: OldDesignator=Q35 NewDesignator=Q36
+Change Component Designator: OldDesignator=Q36 NewDesignator=Q37
+Change Component Designator: OldDesignator=Q37 NewDesignator=Q35
+Added Member To Class: ClassName=main Member=Component Q3 7400
+Added Room: Name=main

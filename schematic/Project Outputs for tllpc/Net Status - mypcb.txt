@@ -1,0 +1,196 @@
+Net Status Report
+Filename     : C:\ttlpc\schematic\mypcb.PcbDoc
+Date         : 7/17/2018
+Time         : 11:55:00 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    ALU B0, Signal Layers Only, 2822.498mils
+    ALU B1, Signal Layers Only, 2173.381mils
+    ALU B10, Signal Layers Only, 2463.503mils
+    ALU B11, Signal Layers Only, 1514.802mils
+    ALU B12, Signal Layers Only, 574.558mils
+    ALU B13, Signal Layers Only, 302.843mils
+    ALU B14, Signal Layers Only, 261.421mils
+    ALU B15, Signal Layers Only, 304.558mils
+    ALU B2, Signal Layers Only, 1856.812mils
+    ALU B3, Signal Layers Only, 1314.802mils
+    ALU B4, Signal Layers Only, 541.421mils
+    ALU B5, Signal Layers Only, 302.843mils
+    ALU B6, Signal Layers Only, 0mils
+    ALU B7, Signal Layers Only, 302.843mils
+    ALU B8, Signal Layers Only, 3050.072mils
+    ALU B9, Signal Layers Only, 2447.523mils
+    ALU CARRY 0, Signal Layers Only, 0mils
+    ALU CARRY 1, Signal Layers Only, 868.822mils
+    ALU CARRY 2, Signal Layers Only, 0mils
+    ALU MODE, Signal Layers Only, 2793.97mils
+    ALU OPB WR, Signal Layers Only, 0mils
+    ALU OUT 0, Signal Layers Only, 0mils
+    ALU OUT 1, Signal Layers Only, 0mils
+    ALU OUT 10, Signal Layers Only, 1780.488mils
+    ALU OUT 11, Signal Layers Only, 1375.635mils
+    ALU OUT 12, Signal Layers Only, 1537.401mils
+    ALU OUT 13, Signal Layers Only, 1462.254mils
+    ALU OUT 14, Signal Layers Only, 1511.665mils
+    ALU OUT 15, Signal Layers Only, 1248.234mils
+    ALU OUT 2, Signal Layers Only, 0mils
+    ALU OUT 3, Signal Layers Only, 0mils
+    ALU OUT 4, Signal Layers Only, 1335.391mils
+    ALU OUT 5, Signal Layers Only, 1368.356mils
+    ALU OUT 6, Signal Layers Only, 1189.949mils
+    ALU OUT 7, Signal Layers Only, 0mils
+    ALU OUT 8, Signal Layers Only, 3541.478mils
+    ALU OUT 9, Signal Layers Only, 3386.122mils
+    ALU OUT R, Signal Layers Only, 0mils
+    ALU OUT WR, Signal Layers Only, 0mils
+    ALU SEL 0, Signal Layers Only, 0mils
+    ALU SEL 1, Signal Layers Only, 1899.706mils
+    ALU SEL 2, Signal Layers Only, 0mils
+    ALU SEL 3, Signal Layers Only, 0mils
+    BUS 0, Signal Layers Only, 3665.462mils
+    BUS 1, Signal Layers Only, 3296.935mils
+    BUS 10, Signal Layers Only, 4125.584mils
+    BUS 11, Signal Layers Only, 3610.782mils
+    BUS 12, Signal Layers Only, 2311.284mils
+    BUS 13, Signal Layers Only, 3782.741mils
+    BUS 14, Signal Layers Only, 2470.193mils
+    BUS 15, Signal Layers Only, 2358.564mils
+    BUS 2, Signal Layers Only, 2788.061mils
+    BUS 3, Signal Layers Only, 2512.914mils
+    BUS 4, Signal Layers Only, 574.558mils
+    BUS 5, Signal Layers Only, 302.843mils
+    BUS 6, Signal Layers Only, 0mils
+    BUS 7, Signal Layers Only, 302.843mils
+    BUS 8, Signal Layers Only, 4487.889mils
+    BUS 9, Signal Layers Only, 4319.066mils
+    CLK, Signal Layers Only, 7411.686mils
+    GATE PC, Signal Layers Only, 0mils
+    GND, Signal Layers Only, 5567.939mils
+    LED ALU 0, Signal Layers Only, 0mils
+    LED ALU 1, Signal Layers Only, 0mils
+    LED ALU 10, Signal Layers Only, 0mils
+    LED ALU 11, Signal Layers Only, 0mils
+    LED ALU 12, Signal Layers Only, 0mils
+    LED ALU 13, Signal Layers Only, 0mils
+    LED ALU 14, Signal Layers Only, 0mils
+    LED ALU 15, Signal Layers Only, 0mils
+    LED ALU 2, Signal Layers Only, 0mils
+    LED ALU 3, Signal Layers Only, 0mils
+    LED ALU 4, Signal Layers Only, 0mils
+    LED ALU 5, Signal Layers Only, 0mils
+    LED ALU 6, Signal Layers Only, 0mils
+    LED ALU 7, Signal Layers Only, 0mils
+    LED ALU 8, Signal Layers Only, 0mils
+    LED ALU 9, Signal Layers Only, 0mils
+    LED MDR 0, Signal Layers Only, 0mils
+    LED MDR 1, Signal Layers Only, 0mils
+    LED MDR 10, Signal Layers Only, 0mils
+    LED MDR 11, Signal Layers Only, 0mils
+    LED MDR 12, Signal Layers Only, 0mils
+    LED MDR 13, Signal Layers Only, 0mils
+    LED MDR 14, Signal Layers Only, 0mils
+    LED MDR 15, Signal Layers Only, 0mils
+    LED MDR 2, Signal Layers Only, 0mils
+    LED MDR 3, Signal Layers Only, 0mils
+    LED MDR 4, Signal Layers Only, 0mils
+    LED MDR 5, Signal Layers Only, 0mils
+    LED MDR 6, Signal Layers Only, 0mils
+    LED MDR 7, Signal Layers Only, 0mils
+    LED MDR 8, Signal Layers Only, 0mils
+    LED MDR 9, Signal Layers Only, 0mils
+    LED PC 0, Signal Layers Only, 0mils
+    LED PC 1, Signal Layers Only, 0mils
+    LED PC 10, Signal Layers Only, 2955.538mils
+    LED PC 11, Signal Layers Only, 2886.838mils
+    LED PC 12, Signal Layers Only, 2847.376mils
+    LED PC 13, Signal Layers Only, 2919.924mils
+    LED PC 14, Signal Layers Only, 2930.391mils
+    LED PC 15, Signal Layers Only, 2779.447mils
+    LED PC 2, Signal Layers Only, 0mils
+    LED PC 3, Signal Layers Only, 0mils
+    LED PC 4, Signal Layers Only, 0mils
+    LED PC 5, Signal Layers Only, 0mils
+    LED PC 6, Signal Layers Only, 0mils
+    LED PC 7, Signal Layers Only, 0mils
+    LED PC 8, Signal Layers Only, 3076.432mils
+    LED PC 9, Signal Layers Only, 3062.29mils
+    MAR 0, Signal Layers Only, 0mils
+    MAR 1, Signal Layers Only, 0mils
+    MAR 10, Signal Layers Only, 0mils
+    MAR 11, Signal Layers Only, 0mils
+    MAR 12, Signal Layers Only, 0mils
+    MAR 13, Signal Layers Only, 0mils
+    MAR 14, Signal Layers Only, 0mils
+    MAR 15, Signal Layers Only, 0mils
+    MAR 2, Signal Layers Only, 0mils
+    MAR 3, Signal Layers Only, 0mils
+    MAR 4, Signal Layers Only, 0mils
+    MAR 5, Signal Layers Only, 0mils
+    MAR 6, Signal Layers Only, 0mils
+    MAR 7, Signal Layers Only, 0mils
+    MAR 8, Signal Layers Only, 0mils
+    MAR 9, Signal Layers Only, 0mils
+    MDR R, Signal Layers Only, 0mils
+    MDR W, Signal Layers Only, 0mils
+    MEM R, Signal Layers Only, 0mils
+    MEM W, Signal Layers Only, 0mils
+    NetD33_2, Signal Layers Only, 0mils
+    NetD34_2, Signal Layers Only, 0mils
+    NetD35_2, Signal Layers Only, 0mils
+    NetD36_2, Signal Layers Only, 0mils
+    NetD37_2, Signal Layers Only, 0mils
+    NetD38_2, Signal Layers Only, 0mils
+    NetD39_2, Signal Layers Only, 0mils
+    NetD40_2, Signal Layers Only, 0mils
+    NetD41_2, Signal Layers Only, 0mils
+    NetD42_2, Signal Layers Only, 0mils
+    NetD43_2, Signal Layers Only, 0mils
+    NetD44_2, Signal Layers Only, 0mils
+    NetD45_2, Signal Layers Only, 0mils
+    NetD46_2, Signal Layers Only, 0mils
+    NetD47_2, Signal Layers Only, 0mils
+    NetD48_2, Signal Layers Only, 0mils
+    NetQ10_3, Signal Layers Only, 0mils
+    NetQ10_6, Signal Layers Only, 0mils
+    NetQ1_1, Signal Layers Only, 100mils
+    NetQ1_10, Signal Layers Only, 100mils
+    NetQ1_3, Signal Layers Only, 100mils
+    NetQ1_6, Signal Layers Only, 300mils
+    NetQ1_8, Signal Layers Only, 526.691mils
+    NetQ20_3, Signal Layers Only, 0mils
+    NetQ20_6, Signal Layers Only, 0mils
+    NetQ21_3, Signal Layers Only, 0mils
+    NetQ21_6, Signal Layers Only, 0mils
+    NetQ2_1, Signal Layers Only, 100mils
+    NetQ2_10, Signal Layers Only, 100mils
+    NetQ2_3, Signal Layers Only, 100mils
+    NetQ2_6, Signal Layers Only, 280mils
+    NetQ2_8, Signal Layers Only, 0mils
+    NetQ3_1, Signal Layers Only, 6179.727mils
+    NetQ3_10, Signal Layers Only, 100mils
+    NetQ3_13, Signal Layers Only, 200mils
+    NetQ3_3, Signal Layers Only, 100mils
+    NetQ3_6, Signal Layers Only, 280mils
+    NetQ3_8, Signal Layers Only, 0mils
+    NetQ9_3, Signal Layers Only, 0mils
+    NetQ9_6, Signal Layers Only, 0mils
+    PC EN, Signal Layers Only, 0mils
+    PC RST, Signal Layers Only, 0mils
+    PC RST SW, Signal Layers Only, 0mils
+    PC SET, Signal Layers Only, 2900.954mils
+    RF BOT READ, Signal Layers Only, 0mils
+    RF BOT WR, Signal Layers Only, 0mils
+    RF R, Signal Layers Only, 0mils
+    RF R0, Signal Layers Only, 0mils
+    RF R1, Signal Layers Only, 0mils
+    RF R2, Signal Layers Only, 0mils
+    RF R2P, Signal Layers Only, 0mils
+    RF RP, Signal Layers Only, 0mils
+    RF TOP READ, Signal Layers Only, 0mils
+    RF TOP WR, Signal Layers Only, 0mils
+    RF W, Signal Layers Only, 0mils
+    RF WP, Signal Layers Only, 0mils
+    SW PC, Signal Layers Only, 533.137mils
+    VCC, Signal Layers Only, 8601.538mils
+count : 188
