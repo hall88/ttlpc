@@ -1,0 +1,262 @@
+Added Component: Designator=Q12(DIP16)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q13(DIP16)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q14(DIP16)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q15(DIP16)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q22(DIP20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q23(DIP20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q24(DIP20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q25(DIP20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q31(DIP24)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q32(DIP24)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q33(DIP24)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q34(DIP24)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PC RST Pin=Q12-1
+Added Pin To Net: NetName=NetQ1_8 Pin=Q12-2
+Added Pin To Net: NetName=BUS 12 Pin=Q12-3
+Added Pin To Net: NetName=BUS 13 Pin=Q12-4
+Added Pin To Net: NetName=BUS 14 Pin=Q12-5
+Added Pin To Net: NetName=BUS 15 Pin=Q12-6
+Added Pin To Net: NetName=VCC Pin=Q12-7
+Added Pin To Net: NetName=GND Pin=Q12-8
+Added Pin To Net: NetName=PC SET Pin=Q12-9
+Added Pin To Net: NetName=PC EN Pin=Q12-10
+Added Pin To Net: NetName=LED PC 15 Pin=Q12-11
+Added Pin To Net: NetName=LED PC 14 Pin=Q12-12
+Added Pin To Net: NetName=LED PC 13 Pin=Q12-13
+Added Pin To Net: NetName=LED PC 12 Pin=Q12-14
+Added Pin To Net: NetName=VCC Pin=Q12-16
+Added Pin To Net: NetName=PC RST Pin=Q13-1
+Added Pin To Net: NetName=NetQ2_8 Pin=Q13-2
+Added Pin To Net: NetName=BUS 8 Pin=Q13-3
+Added Pin To Net: NetName=BUS 9 Pin=Q13-4
+Added Pin To Net: NetName=BUS 10 Pin=Q13-5
+Added Pin To Net: NetName=BUS 11 Pin=Q13-6
+Added Pin To Net: NetName=VCC Pin=Q13-7
+Added Pin To Net: NetName=GND Pin=Q13-8
+Added Pin To Net: NetName=PC SET Pin=Q13-9
+Added Pin To Net: NetName=PC EN Pin=Q13-10
+Added Pin To Net: NetName=LED PC 11 Pin=Q13-11
+Added Pin To Net: NetName=LED PC 10 Pin=Q13-12
+Added Pin To Net: NetName=LED PC 9 Pin=Q13-13
+Added Pin To Net: NetName=LED PC 8 Pin=Q13-14
+Added Pin To Net: NetName=NetQ1_1 Pin=Q13-15
+Added Pin To Net: NetName=VCC Pin=Q13-16
+Added Pin To Net: NetName=PC RST Pin=Q14-1
+Added Pin To Net: NetName=NetQ3_8 Pin=Q14-2
+Added Pin To Net: NetName=BUS 4 Pin=Q14-3
+Added Pin To Net: NetName=BUS 5 Pin=Q14-4
+Added Pin To Net: NetName=BUS 6 Pin=Q14-5
+Added Pin To Net: NetName=BUS 7 Pin=Q14-6
+Added Pin To Net: NetName=VCC Pin=Q14-7
+Added Pin To Net: NetName=GND Pin=Q14-8
+Added Pin To Net: NetName=PC SET Pin=Q14-9
+Added Pin To Net: NetName=PC EN Pin=Q14-10
+Added Pin To Net: NetName=LED PC 7 Pin=Q14-11
+Added Pin To Net: NetName=LED PC 6 Pin=Q14-12
+Added Pin To Net: NetName=LED PC 5 Pin=Q14-13
+Added Pin To Net: NetName=LED PC 4 Pin=Q14-14
+Added Pin To Net: NetName=NetQ2_1 Pin=Q14-15
+Added Pin To Net: NetName=VCC Pin=Q14-16
+Added Pin To Net: NetName=PC RST Pin=Q15-1
+Added Pin To Net: NetName=CLK Pin=Q15-2
+Added Pin To Net: NetName=BUS 0 Pin=Q15-3
+Added Pin To Net: NetName=BUS 1 Pin=Q15-4
+Added Pin To Net: NetName=BUS 2 Pin=Q15-5
+Added Pin To Net: NetName=BUS 3 Pin=Q15-6
+Added Pin To Net: NetName=VCC Pin=Q15-7
+Added Pin To Net: NetName=GND Pin=Q15-8
+Added Pin To Net: NetName=PC SET Pin=Q15-9
+Added Pin To Net: NetName=PC EN Pin=Q15-10
+Added Pin To Net: NetName=LED PC 3 Pin=Q15-11
+Added Pin To Net: NetName=LED PC 2 Pin=Q15-12
+Added Pin To Net: NetName=LED PC 1 Pin=Q15-13
+Added Pin To Net: NetName=LED PC 0 Pin=Q15-14
+Added Pin To Net: NetName=NetQ3_1 Pin=Q15-15
+Added Pin To Net: NetName=VCC Pin=Q15-16
+Added Pin To Net: NetName=GND Pin=Q22-1
+Added Pin To Net: NetName=BUS 8 Pin=Q22-2
+Added Pin To Net: NetName=BUS 9 Pin=Q22-3
+Added Pin To Net: NetName=BUS 10 Pin=Q22-4
+Added Pin To Net: NetName=BUS 11 Pin=Q22-5
+Added Pin To Net: NetName=BUS 12 Pin=Q22-6
+Added Pin To Net: NetName=BUS 13 Pin=Q22-7
+Added Pin To Net: NetName=BUS 14 Pin=Q22-8
+Added Pin To Net: NetName=BUS 15 Pin=Q22-9
+Added Pin To Net: NetName=GND Pin=Q22-10
+Added Pin To Net: NetName=LED PC 15 Pin=Q22-11
+Added Pin To Net: NetName=LED PC 14 Pin=Q22-12
+Added Pin To Net: NetName=LED PC 13 Pin=Q22-13
+Added Pin To Net: NetName=LED PC 12 Pin=Q22-14
+Added Pin To Net: NetName=LED PC 11 Pin=Q22-15
+Added Pin To Net: NetName=LED PC 10 Pin=Q22-16
+Added Pin To Net: NetName=LED PC 9 Pin=Q22-17
+Added Pin To Net: NetName=LED PC 8 Pin=Q22-18
+Added Pin To Net: NetName=GATE PC Pin=Q22-19
+Added Pin To Net: NetName=VCC Pin=Q22-20
+Added Pin To Net: NetName=GND Pin=Q23-1
+Added Pin To Net: NetName=BUS 0 Pin=Q23-2
+Added Pin To Net: NetName=BUS 1 Pin=Q23-3
+Added Pin To Net: NetName=BUS 2 Pin=Q23-4
+Added Pin To Net: NetName=BUS 3 Pin=Q23-5
+Added Pin To Net: NetName=BUS 4 Pin=Q23-6
+Added Pin To Net: NetName=BUS 5 Pin=Q23-7
+Added Pin To Net: NetName=BUS 6 Pin=Q23-8
+Added Pin To Net: NetName=BUS 7 Pin=Q23-9
+Added Pin To Net: NetName=GND Pin=Q23-10
+Added Pin To Net: NetName=LED PC 7 Pin=Q23-11
+Added Pin To Net: NetName=LED PC 6 Pin=Q23-12
+Added Pin To Net: NetName=LED PC 5 Pin=Q23-13
+Added Pin To Net: NetName=LED PC 4 Pin=Q23-14
+Added Pin To Net: NetName=LED PC 3 Pin=Q23-15
+Added Pin To Net: NetName=LED PC 2 Pin=Q23-16
+Added Pin To Net: NetName=LED PC 1 Pin=Q23-17
+Added Pin To Net: NetName=LED PC 0 Pin=Q23-18
+Added Pin To Net: NetName=GATE PC Pin=Q23-19
+Added Pin To Net: NetName=VCC Pin=Q23-20
+Added Pin To Net: NetName=GND Pin=Q24-1
+Added Pin To Net: NetName=ALU B8 Pin=Q24-2
+Added Pin To Net: NetName=BUS 8 Pin=Q24-3
+Added Pin To Net: NetName=BUS 9 Pin=Q24-4
+Added Pin To Net: NetName=ALU B9 Pin=Q24-5
+Added Pin To Net: NetName=ALU B10 Pin=Q24-6
+Added Pin To Net: NetName=BUS 10 Pin=Q24-7
+Added Pin To Net: NetName=BUS 11 Pin=Q24-8
+Added Pin To Net: NetName=ALU B11 Pin=Q24-9
+Added Pin To Net: NetName=GND Pin=Q24-10
+Added Pin To Net: NetName=ALU OPB WR Pin=Q24-11
+Added Pin To Net: NetName=ALU B12 Pin=Q24-12
+Added Pin To Net: NetName=BUS 12 Pin=Q24-13
+Added Pin To Net: NetName=BUS 13 Pin=Q24-14
+Added Pin To Net: NetName=ALU B13 Pin=Q24-15
+Added Pin To Net: NetName=ALU B14 Pin=Q24-16
+Added Pin To Net: NetName=BUS 14 Pin=Q24-17
+Added Pin To Net: NetName=BUS 15 Pin=Q24-18
+Added Pin To Net: NetName=ALU B15 Pin=Q24-19
+Added Pin To Net: NetName=VCC Pin=Q24-20
+Added Pin To Net: NetName=GND Pin=Q25-1
+Added Pin To Net: NetName=ALU B0 Pin=Q25-2
+Added Pin To Net: NetName=BUS 0 Pin=Q25-3
+Added Pin To Net: NetName=BUS 1 Pin=Q25-4
+Added Pin To Net: NetName=ALU B1 Pin=Q25-5
+Added Pin To Net: NetName=ALU B2 Pin=Q25-6
+Added Pin To Net: NetName=BUS 2 Pin=Q25-7
+Added Pin To Net: NetName=BUS 3 Pin=Q25-8
+Added Pin To Net: NetName=ALU B3 Pin=Q25-9
+Added Pin To Net: NetName=BUS 0 Pin=Q25-10
+Added Pin To Net: NetName=ALU OPB WR Pin=Q25-11
+Added Pin To Net: NetName=ALU B4 Pin=Q25-12
+Added Pin To Net: NetName=BUS 4 Pin=Q25-13
+Added Pin To Net: NetName=BUS 5 Pin=Q25-14
+Added Pin To Net: NetName=ALU B5 Pin=Q25-15
+Added Pin To Net: NetName=ALU B6 Pin=Q25-16
+Added Pin To Net: NetName=BUS 6 Pin=Q25-17
+Added Pin To Net: NetName=BUS 7 Pin=Q25-18
+Added Pin To Net: NetName=ALU B7 Pin=Q25-19
+Added Pin To Net: NetName=VCC Pin=Q25-20
+Added Pin To Net: NetName=ALU B12 Pin=Q31-1
+Added Pin To Net: NetName=BUS 12 Pin=Q31-2
+Added Pin To Net: NetName=ALU SEL 3 Pin=Q31-3
+Added Pin To Net: NetName=ALU SEL 2 Pin=Q31-4
+Added Pin To Net: NetName=ALU SEL 1 Pin=Q31-5
+Added Pin To Net: NetName=ALU SEL 0 Pin=Q31-6
+Added Pin To Net: NetName=ALU CARRY 2 Pin=Q31-7
+Added Pin To Net: NetName=ALU MODE Pin=Q31-8
+Added Pin To Net: NetName=ALU OUT 12 Pin=Q31-9
+Added Pin To Net: NetName=ALU OUT 13 Pin=Q31-10
+Added Pin To Net: NetName=ALU OUT 14 Pin=Q31-11
+Added Pin To Net: NetName=GND Pin=Q31-12
+Added Pin To Net: NetName=ALU OUT 15 Pin=Q31-13
+Added Pin To Net: NetName=ALU B15 Pin=Q31-18
+Added Pin To Net: NetName=BUS 15 Pin=Q31-19
+Added Pin To Net: NetName=ALU B14 Pin=Q31-20
+Added Pin To Net: NetName=BUS 14 Pin=Q31-21
+Added Pin To Net: NetName=ALU B13 Pin=Q31-22
+Added Pin To Net: NetName=BUS 13 Pin=Q31-23
+Added Pin To Net: NetName=VCC Pin=Q31-24
+Added Pin To Net: NetName=ALU B8 Pin=Q32-1
+Added Pin To Net: NetName=BUS 8 Pin=Q32-2
+Added Pin To Net: NetName=ALU SEL 3 Pin=Q32-3
+Added Pin To Net: NetName=ALU SEL 2 Pin=Q32-4
+Added Pin To Net: NetName=ALU SEL 1 Pin=Q32-5
+Added Pin To Net: NetName=ALU SEL 0 Pin=Q32-6
+Added Pin To Net: NetName=ALU CARRY 1 Pin=Q32-7
+Added Pin To Net: NetName=ALU MODE Pin=Q32-8
+Added Pin To Net: NetName=ALU OUT 8 Pin=Q32-9
+Added Pin To Net: NetName=ALU OUT 9 Pin=Q32-10
+Added Pin To Net: NetName=ALU OUT 10 Pin=Q32-11
+Added Pin To Net: NetName=GND Pin=Q32-12
+Added Pin To Net: NetName=ALU OUT 11 Pin=Q32-13
+Added Pin To Net: NetName=ALU CARRY 2 Pin=Q32-16
+Added Pin To Net: NetName=ALU B11 Pin=Q32-18
+Added Pin To Net: NetName=BUS 11 Pin=Q32-19
+Added Pin To Net: NetName=ALU B10 Pin=Q32-20
+Added Pin To Net: NetName=BUS 10 Pin=Q32-21
+Added Pin To Net: NetName=ALU B9 Pin=Q32-22
+Added Pin To Net: NetName=BUS 9 Pin=Q32-23
+Added Pin To Net: NetName=VCC Pin=Q32-24
+Added Pin To Net: NetName=ALU B4 Pin=Q33-1
+Added Pin To Net: NetName=BUS 4 Pin=Q33-2
+Added Pin To Net: NetName=ALU SEL 3 Pin=Q33-3
+Added Pin To Net: NetName=ALU SEL 2 Pin=Q33-4
+Added Pin To Net: NetName=ALU SEL 1 Pin=Q33-5
+Added Pin To Net: NetName=ALU SEL 0 Pin=Q33-6
+Added Pin To Net: NetName=ALU CARRY 0 Pin=Q33-7
+Added Pin To Net: NetName=ALU MODE Pin=Q33-8
+Added Pin To Net: NetName=ALU OUT 4 Pin=Q33-9
+Added Pin To Net: NetName=ALU OUT 5 Pin=Q33-10
+Added Pin To Net: NetName=ALU OUT 6 Pin=Q33-11
+Added Pin To Net: NetName=GND Pin=Q33-12
+Added Pin To Net: NetName=ALU OUT 7 Pin=Q33-13
+Added Pin To Net: NetName=ALU CARRY 1 Pin=Q33-16
+Added Pin To Net: NetName=ALU B7 Pin=Q33-18
+Added Pin To Net: NetName=BUS 7 Pin=Q33-19
+Added Pin To Net: NetName=ALU B6 Pin=Q33-20
+Added Pin To Net: NetName=BUS 6 Pin=Q33-21
+Added Pin To Net: NetName=ALU B5 Pin=Q33-22
+Added Pin To Net: NetName=BUS 5 Pin=Q33-23
+Added Pin To Net: NetName=VCC Pin=Q33-24
+Added Pin To Net: NetName=ALU B0 Pin=Q34-1
+Added Pin To Net: NetName=BUS 0 Pin=Q34-2
+Added Pin To Net: NetName=ALU SEL 3 Pin=Q34-3
+Added Pin To Net: NetName=ALU SEL 2 Pin=Q34-4
+Added Pin To Net: NetName=ALU SEL 1 Pin=Q34-5
+Added Pin To Net: NetName=ALU SEL 0 Pin=Q34-6
+Added Pin To Net: NetName=ALU MODE Pin=Q34-8
+Added Pin To Net: NetName=ALU OUT 0 Pin=Q34-9
+Added Pin To Net: NetName=ALU OUT 1 Pin=Q34-10
+Added Pin To Net: NetName=ALU OUT 2 Pin=Q34-11
+Added Pin To Net: NetName=GND Pin=Q34-12
+Added Pin To Net: NetName=ALU OUT 3 Pin=Q34-13
+Added Pin To Net: NetName=ALU CARRY 0 Pin=Q34-16
+Added Pin To Net: NetName=ALU B3 Pin=Q34-18
+Added Pin To Net: NetName=BUS 3 Pin=Q34-19
+Added Pin To Net: NetName=ALU B2 Pin=Q34-20
+Added Pin To Net: NetName=BUS 2 Pin=Q34-21
+Added Pin To Net: NetName=ALU B1 Pin=Q34-22
+Added Pin To Net: NetName=BUS 1 Pin=Q34-23
+Added Pin To Net: NetName=VCC Pin=Q34-24
+Added Member To Class: ClassName=main Member=Component Q12 74LS161
+Added Member To Class: ClassName=main Member=Component Q13 74LS161
+Added Member To Class: ClassName=main Member=Component Q14 74LS161
+Added Member To Class: ClassName=main Member=Component Q15 74LS161
+Added Member To Class: ClassName=main Member=Component Q22 74LS245
+Added Member To Class: ClassName=main Member=Component Q23 74LS245
+Added Member To Class: ClassName=main Member=Component Q24 74LS373
+Added Member To Class: ClassName=main Member=Component Q25 74LS373
+Added Member To Class: ClassName=main Member=Component Q31 74LS181
+Added Member To Class: ClassName=main Member=Component Q32 74LS181
+Added Member To Class: ClassName=main Member=Component Q33 74LS181
+Added Member To Class: ClassName=main Member=Component Q34 74LS181
+Added Room: Name=main
